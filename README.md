@@ -1,5 +1,17 @@
 # AzureIOT
 
+This repo encompasses activities on Azure IOT 
+IOT Hub
+Messaging Communication between devices & Hub
+Device Provisioning Service
+IOT Edge
+Device Twin
+Digital Twin
+Stream Processing of IOT Data
+Health Monitoring
+
+Each sub folder has further images & code 
+
 IOT EDGE
 
 
