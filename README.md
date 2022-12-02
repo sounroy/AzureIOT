@@ -6,7 +6,8 @@ IOT EDGE
 <img width="1728" alt="Screenshot 2022-12-03 at 2 41 06 AM" src="https://user-images.githubusercontent.com/20036322/205386702-ebf631b5-fedf-4f3e-bdf3-2056fb363d08.png">
 
 Creation of IOT Edge Device, Agent runtime, ssh ing to the device , update run time, deploy market place modules
-
+Configuring Edge device as gateway, deploying device certificate
+Configuing routes, paths to messages
 
 <img width="1728" alt="Screenshot 2022-12-03 at 2 42 32 AM" src="https://user-images.githubusercontent.com/20036322/205386923-528be44c-0e7b-4a1e-9d48-33f64372ef88.png">
 
