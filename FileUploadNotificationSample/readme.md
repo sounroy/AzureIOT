@@ -1,1 +1,1 @@
-Showcases uploading files to IOT Hub via code
+Showcases receiving notifications on file upload
