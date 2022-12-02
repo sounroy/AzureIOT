@@ -17,3 +17,8 @@ Device twin
 
 
 <img width="1728" alt="Screenshot 2022-12-02 at 3 11 30 PM" src="https://user-images.githubusercontent.com/20036322/205263408-013d75b2-93ab-4186-889b-ee94d39f9810.png">
+
+
+Queries
+
+<img width="1728" alt="Screenshot 2022-12-02 at 3 27 56 PM" src="https://user-images.githubusercontent.com/20036322/205266631-3e2010b1-53b0-405b-a5c8-c12a2ad8e3e7.png">
