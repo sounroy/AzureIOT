@@ -1,5 +1,15 @@
 # AzureIOT
 
+IOT EDGE
+
+
+<img width="1728" alt="Screenshot 2022-12-03 at 2 41 06 AM" src="https://user-images.githubusercontent.com/20036322/205386702-ebf631b5-fedf-4f3e-bdf3-2056fb363d08.png">
+
+Creation of IOT Edge Device, Agent runtime, ssh ing to the device , update run time, deploy market place modules
+
+
+<img width="1728" alt="Screenshot 2022-12-03 at 2 42 32 AM" src="https://user-images.githubusercontent.com/20036322/205386923-528be44c-0e7b-4a1e-9d48-33f64372ef88.png">
+
 <img width="1728" alt="Screenshot 2022-12-02 at 3 23 58 PM" src="https://user-images.githubusercontent.com/20036322/205265861-d6838da5-19b3-422a-b0db-f6c05d9a4fce.png">
 
 <img width="1728" alt="Screenshot 2022-12-02 at 3 57 21 PM" src="https://user-images.githubusercontent.com/20036322/205272136-cd540c69-4466-4790-a507-e652e6e44f10.png">
